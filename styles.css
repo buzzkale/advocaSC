@@ -1,0 +1,21 @@
+a.nav-link active {
+    color: #000000;
+    font-weight: bold;
+}
+
+/* home hero */
+h1.lc-block mb-4 {
+    padding-bottom: 10%;
+}
+
+a.btn-primary {
+    color: #000000;
+    background-color: #ffde59;
+    border-color: #ffde59; /*set the color you want here*/
+}
+
+a.btn-primary:hover {
+    color: #fff;
+    background-color: #8f1212;
+    border-color: #8f1212;
+}

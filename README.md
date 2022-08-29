@@ -1,2 +1,2 @@
 # advocaSC
-advocaSC's official website.
+advocaSC's official website. A work in progress and must be made as accessible as possible to future members in charge of this website. Make it easy to edit and obvious as to where people should change things and where they shouldn't.
