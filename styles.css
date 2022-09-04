@@ -1,6 +1,10 @@
+body {
+    color: #121212;
+}
+
 a.nav-link active {
     color: #000000;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 /* home hero */
@@ -18,4 +22,13 @@ a.btn-primary:hover {
     color: #fff;
     background-color: #8f1212;
     border-color: #8f1212;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+}
+
+em {
+    font-size: small;
 }
